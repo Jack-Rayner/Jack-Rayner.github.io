@@ -41,7 +41,7 @@
   --bs-danger: #dc3545;
   --bs-light: #f8f9fa;
   --bs-dark: #212529;
-  /* --bs-primary-rgb: 189, 93, 56; */
+  --bs-primary-rgb: #976f4f;
   /* --bs-secondary-rgb: 108, 117, 125; */
   --bs-success-rgb: 25, 135, 84;
   --bs-info-rgb: 13, 202, 240;
@@ -61,7 +61,7 @@
   --bs-body-font-weight: 400;
   --bs-body-line-height: 1.5;
   --bs-body-color: #212529;
-  --bs-body-bg: pink;
+  --bs-body-bg: #c7cedf;
 }
 
 *,
@@ -11333,7 +11333,7 @@ p.lead {
 #sideNav {
   padding-left: 1rem;
   padding-right: 1rem;
-  outline-color: #976f4f;
+  /* outline-color: #976f4f; */
 }
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 800;
